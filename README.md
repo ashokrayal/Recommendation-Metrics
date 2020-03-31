@@ -4,7 +4,7 @@ Recommendation-Metrics is compatible with Python 3.4 or later and also depends o
 
     $ pip install recommendation-metrics
 
-Note that Yellowbrick is an active project and routinely publishes new releases with more visualizers and updates. In order to upgrade Yellowbrick to the latest version, use pip as follows.
+Note that Recommendation-Metrics is an active project and routinely publishes new releases with more visualizers and updates. In order to upgrade Recommendation-Metrics to the latest version, use pip as follows.
 
     $ pip install -U recommendation-metrics
 
